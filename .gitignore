@@ -1,0 +1,4 @@
+# Project exclude paths
+/est-dao/target/
+/est-modle/target/
+/est-service/target/
